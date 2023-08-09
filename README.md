@@ -1,4 +1,21 @@
+<div align="center" >
+
 # Data Science Learning.
+
+</div>
+
+<p align="center" >
+     <img width="200" heigth="200" src="images/DataScienceLogo.png">
+</p>
+
+<div align="center">
+
+![GitHub repo size](https://img.shields.io/github/repo-size/emersondivB0/Data-Science-Learning)
+![GitHub contributors](https://img.shields.io/github/contributors/emersondivB0/Data-Science-Learning)
+![GitHub stars](https://img.shields.io/github/stars/emersondivB0/Data-Science-Learning?style=social)
+![GitHub forks](https://img.shields.io/github/forks/emersondivB0/Data-Science-Learning?style=social)
+
+</div>
 
 
 This repository aims to document all my learning in the field of Data Science, from essential Python libraries like Pandas and Seaborn to the step-by-step application of Machine Learning models.
