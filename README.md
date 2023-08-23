@@ -37,3 +37,5 @@ El repositorio está organizado de la siguiente manera:
 **1-Pandas-Course/**: This folder contains all the topics related to the Pandas library, the most relevant methods for data preparation.
 
 **2-Seaborn-Course/**: This folder contains all the relevant methods related to the Seaborn library.
+
+**3-ML-Cassification-SKLearn/**: This folder contains all the topics related to Machine Learning, classification with SKLearn.
