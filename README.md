@@ -39,3 +39,5 @@ El repositorio está organizado de la siguiente manera:
 **2-Seaborn-Course/**: This folder contains all the relevant methods related to the Seaborn library.
 
 **3-ML-Cassification-SKLearn/**: This folder contains all the topics related to Machine Learning, classification with SKLearn.
+
+**4-ML-Optimization-Hyperparameters/**: This folde contains all the topics related to Machine Learning: Optimization of Models through Hyperparameters.
