@@ -32,7 +32,7 @@ The following tools and technologies were used in this project:
 - [Scikit-learn](https://scikit-learn.org/stable/)
 
 ### Repository Structure
-El repositorio está organizado de la siguiente manera:
+The repository is organized as follows:
 
 **1-Pandas-Course/**: This folder contains all the topics related to the Pandas library, the most relevant methods for data preparation.
 
